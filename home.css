@@ -22,12 +22,16 @@ h2{
     padding: 10px;
     width:fit-content;
     margin: auto;
+    le
 }
 body{
     margin: auto;
     text-align: center;
-    width:600px
+    width: 600px;
 }
  a{
     padding: 50px;
+ }
+ div{
+    background-color: aliceblue;
  }
