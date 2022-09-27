@@ -3,31 +3,32 @@ html{
     background: url('img/1_US.jpg') no-repeat center fixed;
     background-size: cover;
 }
+
+h1{
+    margin:auto;
+    text-align: center;
+    
+}
 h2{
     margin: auto;
     text-align: center;
     font-size: xx-large;
+    font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">;
+}
+.sites{
+    background-color: grey;
+    padding: 10px;
+    width:fit-content;
+    margin: auto;
+    le
 }
 body{
     margin: auto;
     text-align: center;
-  
+    width: 600px;
 }
  a{
     padding: 50px;
  }
-.sites{
-    text-decoration: none;
-    background-color: grey;
-    padding: 50px;
-    color: black;
-    border-radius: 10px;
-}
-.sites:hover{
-    text-decoration: underline;
-}
-ul{
-    text-align: center;
-    margin: 0px;
-    padding: 0px;
-}
