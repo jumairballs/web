@@ -1,9 +1,19 @@
+
 body{
     margin: auto;
     text-align: center;
-    width:600px
+    width:600px;
+    background-color: rgba(255,255,255, 0.4);
+    border-radius: 25px;
 }
 
 a{
     padding: 50px;
- }
+}
+.sites{
+    text-decoration: none;
+    color: black;
+}
+.sites:hover{
+    text-decoration: underline;
+}
