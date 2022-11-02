@@ -18,17 +18,30 @@ h2{
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">;
 }
 .sites{
+<<<<<<< HEAD
     background-color: grey;
     padding: 70px;
     width:fit-content;
     margin: auto;
+=======
+    padding: 50px;
+    width:fit-content;
+    margin: auto;
+    text-decoration: none;
+    
+>>>>>>> 46a9581eefda6992d137b8e36c468c9319c33ddf
 }
 body{
     margin: auto;
     text-align: center;
     width: 600px;
+    padding: 0px;
+    background-color: grey;
+    border-radius: 25px;
+    height: 100px;
 }
  a{
+<<<<<<< HEAD
     border-radius: 15px;
     color: black;
  }
@@ -36,3 +49,14 @@ body{
  ul{
     padding: 0px;
  }
+=======
+    padding: 50px;
+    color: black;
+ }
+ a:hover{
+    text-decoration: underline;
+ }
+ ul{
+    padding: 0px;
+ }
+>>>>>>> 46a9581eefda6992d137b8e36c468c9319c33ddf

@@ -19,3 +19,9 @@ a{
 .sites:hover{
     text-decoration: underline;
 }
+p{
+   font-size: x-large;
+}
+ul{
+    padding: 0px;
+}
