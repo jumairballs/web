@@ -1,12 +1,24 @@
-
+html{
+    background: url(img/super-smash-bros-ultimate-world-of-light-kirby_feature.jpg) no-repeat center fixed;
+    background-size: cover;
+}
 body{
     margin: auto;
-    text-align: center;
     width:600px;
-    background-color: rgba(255,255,255, 0.4);
+    background-color: rgba(255, 255, 255, 0.7);
     border-radius: 25px;
 }
+div{
+    text-align: center;
+}
+h1{
+    padding-left: 50px;
+}
 
+p{
+    padding-left: 50px;
+    font-size: larger;
+}
 a{
     padding: 50px;
 }
@@ -16,4 +28,17 @@ a{
 }
 .sites:hover{
     text-decoration: underline;
+}
+ul{ padding: 0px;}
+
+hr{
+    width: 500px;
+}
+
+button{
+    cursor: pointer;
+}
+
+.quiz{
+    padding: 0px;
 }
